@@ -62,29 +62,21 @@
 
 ```
 <!--
-  Indicá en qué punto del examen usaste este prompt.
-  No es sobre la hora exacta — es sobre el contexto: ¿qué estabas intentando resolver cuando recurriste a la IA?
-  Ej: "Cuando no sabía cómo estructurar el layout con Grid."
-  Ej: "Al terminar el HTML, para verificar si me faltaba algo de accesibilidad."
-  Ej: "Al principio del ejercicio de JS, para entender cómo arrancar."
+  Estaba intentando resolver la function3 de la consigna utilizando el arrowfunction pero no me salia la funcion y no veia el error
 -->
 ```
 
 ### Lo que le pedí a la IA
 
 ```
-<!-- Pegá aquí el prompt exacto que escribiste. Debe ser el texto que vos escribiste, no la respuesta. -->
+Necesito crear una función en JavaScript llamada canCastSpell que sea de tipo Arrow Function. La función es verificar si hay suficiente mana y si el personaje no está aturdido
 ```
 
 ### Análisis del resultado obtenido
 
 ```
 <!--
-  Describí con tus propias palabras qué generó la IA. No copies el código ni la respuesta — analizála.
-  Mínimo 3 oraciones. Respondé:
-  - ¿Qué enfoque tomó la IA para resolver el problema?
-  - ¿El resultado era lo que esperabas? ¿Por qué sí o por qué no?
-  - ¿Qué parte te resultó útil como punto de partida?
+  Me pasó una funcion de una sola linea que en su momento no lograba comprender, la modifique utilizando {} y le agregué un if else ya que lo entiendo mejor, y remplace el !stunned por isstunned===false 
 -->
 ```
 
@@ -92,13 +84,7 @@
 
 ```
 <!--
-  Esta sección es la más importante. Sé específico/a. Mínimo 3 oraciones.
-  Respondé:
-  - ¿Qué error concreto tenía el resultado? (semántico, de accesibilidad, lógico, de estilo, etc.)
-  - ¿Cómo lo detectaste? (al probarlo en el browser, al leer el código, al ver la consola...)
-  - ¿Por qué estaba técnicamente incorrecto o insuficiente?
-  - ¿Qué cambiaste exactamente para que funcionara bien?
-  Si no corregiste nada, explicá por qué el resultado era correcto tal como estaba.
+  la modifique utilizando {} y le agregué un if else ya que lo entiendo mejor, y remplace el !stunned por isstunned===false para que sea mas claro
 -->
 ```
 
@@ -109,8 +95,6 @@
 ```
 <!--
   Mínimo 3 oraciones. Respondé:
-  - ¿Qué tipo de errores repitió la IA que tuviste que corregir?
-  - ¿Hubo algo que la IA resolvió bien a la primera sin que necesitaras tocarlo?
-  - ¿Cambiarías la forma en que le pedís cosas a la IA la próxima vez? ¿Por qué?
+  La IA me sugirió buenos cambios pero decidi hacer cambios por mi misma ya que veia que habia opciones que no entendia, o que me costaba más realizar. No lo mencioné pero para el tema del diseño me enfoque tambien en ver las opciones que me daba la IA y quedó mejor esteticamente, considero que debo trabajar más en el CSS y entenderlo mejor para futuros trabajos.
 -->
 ```
